@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Jason Frater](https://avatars.githubusercontent.com/jasonfrater){width=80%}
+![Jason Frater](https://avatars.githubusercontent.com/jasonfrater){width=40%}
 
 
 Contact Info {#contact}
@@ -48,10 +48,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Jason Frater {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+### Currently undertaking contracting positions. 
 
 Please note that this is a *real* resume, and I'm really looking for a PhD
 student position at the moment. I made this resume because Yihui asked me
@@ -62,25 +62,35 @@ interested in my background and skills, please feel free to contact me.
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### University of New South Wales
 
-B.S. in Information and Computing Sciences
+Masters of Engineering Science (Petroleum Engineering)
 
-Beijing, China
+Sydney, Australia
 
-2010
+2018 - 2015
 
-Thesis: Dyadic wavelet and its application in edge detection
+<!-- Thesis: Dyadic wavelet and its application in edge detection -->
 
-### University of Chinese Academy of Sciences
+### University of Sydney
 
-M.S. in Bioinformatics
+Bachelor of Mechanical Engineering
 
-Beijing, China
+Sydney, Australia
 
-2014
+2007 - 2002
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+<!-- Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals -->
+
+
+### Queensland University of Technology
+
+Graduate Cert Data Analysis
+
+Brisbane, Australia
+
+Current
+
 
 
 Research Experience {data-icon=laptop}
